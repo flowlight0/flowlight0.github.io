@@ -1,0 +1,10 @@
+- Section 6, the definition of R_{st}^{T_r} and Lemma 7
+
+Wrong:
+s \in V(\overrightarrow{T_r}) \land t \in V(\overleftarrow{T_r})
+
+Correct:
+s \in V(\overleftarrow{T_r}) \land t \in V(\overrightarrow{T_r})
+(it means that r is reachable from s and t is reachable from r.)
+
+
