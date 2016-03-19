@@ -1,0 +1,15 @@
+Errata in
+
+- p.7
+誤: 
+[19] K. Tretyakov, A. Armas-cervantes, L. Garc´ıa-ba nuelos, and
+M. Dumas. Fast Fully Dynamic Landmark-based Estimation
+of Shortest Path Distances in Very Large Graphs Categories
+and Subject Descriptors. In CIKM, pp. 1785–1794, 2011.
+
+
+正:
+[19] K. Tretyakov, A. Armas-cervantes, L. Garc´ıa-ba nuelos, and
+M. Dumas. Fast Fully Dynamic Landmark-based Estimation
+of Shortest Path Distances in Very Large Graphs. In CIKM, pp. 1785–1794, 2011.
+
